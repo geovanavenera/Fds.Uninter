@@ -1,0 +1,6 @@
+Fontes utilizadas no projeto:
+
+1. Segoe UI
+   - Tipo: Sans-serif
+   - Aplicação: Utilizada como fonte principal do corpo do texto no site.
+   - Observação: É uma fonte padrão em sistemas Windows. Caso não esteja disponível, será substituída por qualquer fonte sans-serif disponível no dispositivo do usuário.
